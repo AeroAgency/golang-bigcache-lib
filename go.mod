@@ -1,4 +1,4 @@
-module gitlab.aeroidea.ru/megafon/bigcache-lib
+module github.com/AeroAgency/golang-bigcache-lib
 
 go 1.13
 
